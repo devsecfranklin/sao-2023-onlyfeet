@@ -7,4 +7,4 @@ the parts that don't make sense for your project. (SAO vs. full badge for exmapl
 
 - [This is where the documentation lives](/docs)
 
-![logo_2022](https://github.com/DEAD10C5/sao-2023-onlyfeet/artwork/of.png?raw=true)
+![logo_2022](https://github.com/DEAD10C5/sao-2023-onlyfeet/blob/main/artwork/of.png?raw=true)
